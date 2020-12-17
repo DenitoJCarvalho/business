@@ -2,6 +2,6 @@
 
 Projeto realizado no curso da Hcode que consiste em uma landing page de negócios.
 
-[Business]()
+[Business](https://business-nine.vercel.app/) - link para acessar o template.
 
-<img src="./assets/images/business.jpg" alt="negocios" />
+<img src="./assets/business.jpg" alt="negocios" />
